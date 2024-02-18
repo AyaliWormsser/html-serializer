@@ -1,0 +1,9 @@
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\AllTags.json
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\SelfClosingTags.json
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\HtmlSerializer.exe.config
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\HtmlSerializer.exe
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\HtmlSerializer.pdb
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\HtmlSerializer.csproj.AssemblyReference.cache
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\HtmlSerializer.exe
+C:\אילי\תכנות\ו\פרקטיקוד\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\HtmlSerializer.pdb
